@@ -1,1 +1,2 @@
 # Covid_Live_Data
+This is a simple desktop application project where you can view the live updates of data regarding Covid cases of any country. You just need to type the name of the country in the search box and all the required details such as total number of cases, number of active cases ,number of deaths etc., will be displayed automatically. The live updates of the data regarding the cases across the world are also displayed.
