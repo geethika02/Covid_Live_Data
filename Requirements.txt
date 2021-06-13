@@ -1,0 +1,3 @@
+pip install covid
+pip install tk
+pip install tk-tools
